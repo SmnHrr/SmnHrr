@@ -1,3 +1,5 @@
+<br clear="both">
+
 <div data-importer="border">
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=286&section=header&reversal=false&text=SYMPLX&fontSize=103&fontColor=#644b9b&fontAlign=50&fontAlignY=50&stroke=#c6b8ff&strokeWidth=60&animation=blinking&descSize=20&descAlign=2&descAlignY=-25&textBg=true&color=gradient"  />
 </div>
@@ -60,6 +62,8 @@
 </div>
 
 ###
+
+<br clear="both">
 
 <div data-importer="border">
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=286&section=header&reversal=false&text=SYMPLX&fontSize=103&fontColor=#644b9b&fontAlign=50&fontAlignY=50&stroke=#c6b8ff&strokeWidth=60&animation=blinking&descSize=20&descAlign=2&descAlignY=-25&textBg=true&color=gradient"  />
