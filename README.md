@@ -14,11 +14,6 @@
 
 ###
 
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/SmnHrr/SmnHrr/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-</div>
-
-###
 
 <div data-importer="techs" align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
